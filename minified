@@ -35,7 +35,6 @@ viewmodel_fov "68.000000";
 viewmodel_offset_x "-1.200000";
 viewmodel_offset_y "0.700000";
 viewmodel_offset_z "-2.0";
-viewmodel_presetpos "0";
 viewmodel_recoil "1.0";
 cl_bob_lower_amt "21";
 cl_bobamt_lat "0.33";

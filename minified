@@ -16,7 +16,7 @@ cl_crosshairdot "0";
 cl_crosshairgap "-1.5";
 cl_crosshairgap_useweaponvalue "0";
 cl_crosshairscale "0";
-cl_crosshairsize "2";
+cl_crosshairsize "3";
 cl_crosshairstyle "4";
 cl_crosshairthickness "0.7";
 cl_crosshairusealpha "1";

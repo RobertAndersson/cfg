@@ -13,7 +13,7 @@ cl_crosshaircolor_b "255";
 cl_crosshaircolor_g "255";
 cl_crosshaircolor_r "255";
 cl_crosshairdot "0";
-cl_crosshairgap "-1.5";
+cl_crosshairgap "0";
 cl_crosshairgap_useweaponvalue "0";
 cl_crosshairscale "0";
 cl_crosshairsize "3";
@@ -45,4 +45,5 @@ bind "MOUSE4" "use weapon_knife; use weapon_flashbang;";
 bind "x" "use weapon_knife; use weapon_decoy";
 bind "c" "use weapon_knife; use weapon_smokegrenade";
 bind "4" "use weapon_knife; use weapon_hegrenade";
+bind "n" "-attack";
 
